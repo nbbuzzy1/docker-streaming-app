@@ -2,4 +2,4 @@ build:
   docker:
     client: client/Dockerfile
     nginx: nginx/Dockerfile
-    server: server/Dockerfile
+    api: server/Dockerfile
