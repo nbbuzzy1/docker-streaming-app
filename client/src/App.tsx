@@ -7,5 +7,5 @@ export const App = () => {
     axios.get('/api/get').then((res) => console.log(res));
   }, []);
 
-  return <Typography variant="h3">Hello!</Typography>;
+  return <Typography variant="h3">Hello!!</Typography>;
 };
